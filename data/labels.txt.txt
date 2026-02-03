@@ -1,0 +1,6 @@
+fishing_net
+ghost_gear
+debris
+fish
+background
+aquatic animals

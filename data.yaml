@@ -1,0 +1,6 @@
+train: yolo_data/images/train
+val: yolo_data/images/val
+test: yolo_data/images/test
+
+nc: 3
+names: ['debris', 'ghost_gear', 'fishing_net']
