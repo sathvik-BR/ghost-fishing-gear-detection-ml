@@ -24,6 +24,11 @@ This project detects ghost fishing gear in ocean environments using a YOLOv8 obj
 ## Note
 Model weight files are not uploaded due to GitHub size limits.
 
+## Sample Output
+Detection output samples are available in the `output_samples` folder showing model predictions on test images.
+
 ## Author
 Sathvik B R
 AIML Student
+
+
